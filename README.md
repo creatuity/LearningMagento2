@@ -13,6 +13,8 @@ Here's some helpful resources for learning Magento 2:
 * Alan Storm's Blog, Magento category: http://alanstorm.com/category/magento 
 * Karen Baker's Blog, Magento 2 articles: http://karenbaker.me/category/magento-2/
 * MageClass, Magento2 tutorials, screencasts and up to date news: http://mageclass.com
+* FireBear Studio blog, collection of tutorials and resources: https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html  
+* Magento 2 tag on StackExchange: http://magento.stackexchange.com/questions/tagged/magento2 
 
 If we've missed one, please submit a pull request to add it!
 
