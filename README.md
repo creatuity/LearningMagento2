@@ -10,7 +10,7 @@ Here's some helpful resources for learning Magento 2:
 
 * Official Magento 2 Developer Docs: http://devdocs.magento.com/ 
 * Alan Kent's Blog: http://alankent.me/ 
-* Alan Storm's Blog, Magento category: http://alanstorm.com/category/magento 
+* Alan Storm's Blog, Magento 2 category: http://alanstorm.com/category/magento-2
 * Karen Baker's Blog, Magento 2 articles: http://karenbaker.me/category/magento-2/
 * MageClass, Magento2 tutorials, screencasts and up to date news: http://mageclass.com
 * FireBear Studio blog, collection of tutorials and resources: https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html  
