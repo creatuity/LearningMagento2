@@ -18,7 +18,7 @@ Here's some helpful resources for learning Magento 2:
 * Max Pronko's blog: http://www.maxpronko.com/tag:magento%202 
 * Mage2.PRO blog, Magento 2 articles and tutorials:  https://mage2.pro/
 * Magento 2 Sample Modules: https://github.com/magento/magento2-samples
-* Inchoo blgo: http://inchoo.net/category/magento-2/
+* Inchoo blog: http://inchoo.net/category/magento-2/
 
 If we've missed one, please submit a pull request to add it!
 
