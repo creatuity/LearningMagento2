@@ -19,6 +19,10 @@ Here's some helpful resources for learning Magento 2:
 * Mage2.PRO blog, Magento 2 articles and tutorials:  https://mage2.pro/
 * Magento 2 Sample Modules: https://github.com/magento/magento2-samples
 * Inchoo blog: http://inchoo.net/category/magento-2/
+* Session Digital blog: http://www.sessiondigital.com/blog/category/magento-2/
+* Nathan McBride Blog: http://brideo.co.uk/magento2/
+* Max Yekaterynenko (Head of Magento 2 Development): https://maxyek.wordpress.com/ 
+* Ash Smith blog: https://www.ashsmith.io/
 
 If we've missed one, please submit a pull request to add it!
 
