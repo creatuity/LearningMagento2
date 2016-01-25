@@ -23,7 +23,12 @@ Here's some helpful resources for learning Magento 2:
 * Nathan McBride Blog: http://brideo.co.uk/magento2/
 * Max Yekaterynenko (Head of Magento 2 Development): https://maxyek.wordpress.com/ 
 * Ash Smith blog: https://www.ashsmith.io/
-* IBNAB blog: http://www.ibnab.com/en/blog/magento-2 
+* IBNAB blog: http://www.ibnab.com/en/blog/magento-2
+
+### Books
+* [Magento 2 Developers Guide](http://www.amazon.co.uk/gp/product/1785886584/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1785886584&linkCode=as2&tag=shop1404-21) by Branko Ajzele
+* [Magento 2 Development Cookbook](http://www.amazon.co.uk/gp/product/1785882198/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1785882198&linkCode=as2&tag=shop1404-21) by Bart Delvaux
+* [Mastering Magento 2](http://www.amazon.co.uk/gp/product/1785882368/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1785882368&linkCode=as2&tag=shop1404-21) by Bret Williams & Jonathan Bownds (Pre-Order for July 2016)
 
 If we've missed one, please submit a pull request to add it!
 
