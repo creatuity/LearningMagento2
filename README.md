@@ -37,6 +37,9 @@ Here's some helpful resources for learning Magento 2:
 * [Jetbrains Magento 2 Plugin](https://plugins.jetbrains.com/plugin/8024) by Dmytro Kvashnin
 * [Magicento 2 (beta)](http://magicento.com/) by Enrique Piatti
 
+## Videos 
+* [Mage 2 Kata](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw) by Vinai Kopp
+
 If we've missed one, please submit a pull request to add it!
 
 ## Opening Issues
