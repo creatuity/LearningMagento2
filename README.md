@@ -30,6 +30,11 @@ Here's some helpful resources for learning Magento 2:
 * [Magento 2 Development Cookbook](http://www.amazon.co.uk/gp/product/1785882198/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1785882198&linkCode=as2&tag=shop1404-21) by Bart Delvaux
 * [Mastering Magento 2](http://www.amazon.co.uk/gp/product/1785882368/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1785882368&linkCode=as2&tag=shop1404-21) by Bret Williams & Jonathan Bownds (Pre-Order for July 2016)
 
+### Tools
+* [Commerce Bug 3](http://store.pulsestorm.net/products/commerce-bug-3) by Alan Storm
+* [Jetbrains Magento 2 Plugin](https://plugins.jetbrains.com/plugin/8024) by Dmytro Kvashnin
+* [Magicento 2 (beta)](http://magicento.com/) by Enrique Piatti
+
 If we've missed one, please submit a pull request to add it!
 
 ## Opening Issues
