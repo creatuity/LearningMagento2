@@ -38,6 +38,7 @@ Here's some helpful resources for learning Magento 2:
 * [Commerce Bug 3](http://store.pulsestorm.net/products/commerce-bug-3) by Alan Storm
 * [Jetbrains Magento 2 Plugin](https://plugins.jetbrains.com/plugin/8024) by Dmytro Kvashnin
 * [Magicento 2 (beta)](http://magicento.com/) by Enrique Piatti
+* [Brackets Magento 2 Plugin](http://brackets.dnbard.com/extension/brackets-mg2-functions-hint) by Rafael Corrêa Gomes
 
 ## Videos 
 * [Mage 2 Kata](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw) by Vinai Kopp
